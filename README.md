@@ -1,87 +1,54 @@
-# Welcome to React Router!
+# ✈️ SKY RUSH
 
-A modern, production-ready template for building full-stack React applications using React Router.
+**Dodge. Survive. Score Higher.**
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/remix-run/react-router-templates/tree/main/default)
+SKY RUSH is a fun airplane survival game where players control an aircraft, dodge incoming rockets, and try to survive as long as possible.
 
-## Features
+## 🎮 Features
 
-- 🚀 Server-side rendering
-- ⚡️ Hot Module Replacement (HMR)
-- 📦 Asset bundling and optimization
-- 🔄 Data loading and mutations
-- 🔒 TypeScript by default
-- 🎉 TailwindCSS for styling
-- 📖 [React Router docs](https://reactrouter.com/)
+- ✈️ Smooth airplane movement
+- 🚀 Random rocket spawning and tracking
+- 💥 Collision and explosion effects
+- ❤️ 3-life health system
+- 🏆 High score saved using Local Storage
+- ⏸️ Pause and resume gameplay
+- 🎵 Background music and sound effects
+- 📱 Keyboard, mouse, and mobile touch controls
+- 📈 Increasing difficulty
 
-## Getting Started
+## 🛠️ Tech Stack
 
-### Installation
+- React
+- TypeScript
+- Tailwind CSS
+- HTML5 Canvas
+- Local Storage
 
-Install the dependencies:
 
-```bash
-npm install
-```
+## 🎯 How to Play 
 
-### Development
+Control your airplane, avoid incoming rockets, and survive as long as possible. Challenge yourself to beat your highest score!
 
-Start the development server with HMR:
 
-```bash
-npm run dev
-```
+## PLAY NOW - [https://sky-rush-game-nu.vercel.app/]
 
-Your application will be available at `http://localhost:5173`.
+## Screenshots 
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/9493516d-3dd3-4e68-9774-c19b7e1f1182" />
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/7c81d102-4272-493f-bc70-13e6791c83a2" />
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/d277fb31-de0e-4cfc-a881-5fa9d38b85c7" />
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/982d2f31-9eb6-4e9e-9a64-2951f47e35d1" />
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/35575328-2794-4f17-8c2a-fe2043ca66b3" />
 
-## Building for Production
 
-Create a production build:
 
-```bash
-npm run build
-```
 
-## Deployment
+## 👨‍💻 Developer
 
-### Docker Deployment
+**Heshan Dinuka Lakmal**
 
-To build and run using Docker:
-
-```bash
-docker build -t my-app .
-
-# Run the container
-docker run -p 3000:3000 my-app
-```
-
-The containerized application can be deployed to any platform that supports Docker, including:
-
-- AWS ECS
-- Google Cloud Run
-- Azure Container Apps
-- Digital Ocean App Platform
-- Fly.io
-- Railway
-
-### DIY Deployment
-
-If you're familiar with deploying Node applications, the built-in app server is production-ready.
-
-Make sure to deploy the output of `npm run build`
-
-```
-├── package.json
-├── package-lock.json (or pnpm-lock.yaml, or bun.lockb)
-├── build/
-│   ├── client/    # Static assets
-│   └── server/    # Server-side code
-```
-
-## Styling
-
-This template comes with [Tailwind CSS](https://tailwindcss.com/) already configured for a simple default starting experience. You can use whatever CSS framework you prefer.
+- GitHub: [@Dinuka0512](https://github.com/Dinuka0512)
+- Portfolio: [dinukadev.com](https://dinukadev.com)
 
 ---
 
-Built with ❤️ using React Router.
+*Built with passion, code, and plenty of bug fixing! 🚀*
